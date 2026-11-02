@@ -9,8 +9,11 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1.Import the required Python libraries and create the student dataset.
+
 2.Separate the input features and the placement status as input and output.
+
 3.Create and train the Logistic Regression model using the training data.
+
 4.Give the student's details as input and predict the placement status.
 
 ## Program:
@@ -57,6 +60,7 @@ print("\nPredicted Placement Status:",
 
 ## Output:
 
+<img width="1717" height="446" alt="image" src="https://github.com/user-attachments/assets/97b2b593-9e94-4614-9c7f-e61a33f52a55" />
 
 
 ## Result:
